@@ -794,7 +794,9 @@ section#projects .container .cards-projects .box .description {
 
 #gameshop,
 #agenda-contaos,
-#validacao-exercicios {
+#validacao-exercicios,
+#onepiece,
+#podrao {
     max-width: 600px;
     min-height: 350px;
 }

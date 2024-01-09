@@ -2,6 +2,26 @@
 
 const dataProjects = [
     {
+        title: 'Podrão',
+        date: '24 de dezembro de 2023',
+        description: `Podrão é uma landing page fictícia em um restaurante <br><br>
+        `, 
+        videoSrc: `./assets/projects/podrao.png`,
+        linkedin: 'https://www.linkedin.com/posts/diego-santos-13896a243_podr%C3%A3o-activity-7133463343800987650-0SbR?utm_source=share&utm_medium=member_desktop',
+        repository: 'https://github.com/Dirraco/projeto_md14',
+        site: 'https://projeto-md-14.vercel.app/'
+    },
+    {
+        title: 'One Piece',
+        date: '24 de dezembro de 2023',
+        description: `One Piece é uma landing page com foco no anime <br><br>
+        `, 
+        videoSrc: `./assets/projects/onepiece.png`,
+        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7142883553884758016/',
+        repository: 'https://github.com/Dirraco/landing_page-one_piece',
+        site: 'https://landing-page-one-piece-mu.vercel.app/'
+    },
+    {
         title: 'Game Shop',
         date: '17 de Agosto de 2023',
         videoSrc: `./assets/mini-languages/html-5-svg.svg`,
