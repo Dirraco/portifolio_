@@ -2,6 +2,16 @@
 
 const dataProjects = [
     {
+        title: 'Empresa de Administração',
+        date: '15 de janeiro de 2024',
+        description: `A META é uma Organização sem fins lucrativos, formada por estudantes de Administração e de Recursos Humanos do UDF. Buscamos entender as dificuldades dos nossos clientes e desenvolver soluções personalizadas, com a finalidade de alavancar a sua competitividade no cenário empresarial. Nossa missão é gerar soluções personalizadas de qualidade para impulsionar nossos clientes na obtenção de melhores resultados, de forma ética e transparente, impactando de forma positiva o ecossistema empreendedor de Brasília. <br><br>
+        `, 
+        videoSrc: `./assets/projects/meta1.png`,
+        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7157169098420822016/',
+        repository: 'https://github.com/Dirraco/1teste_meta',
+        site: 'https://site-de-administracao.vercel.app'
+    },
+    {
         title: 'Podrão',
         date: '24 de dezembro de 2023',
         description: `Podrão é uma landing page fictícia em um restaurante <br><br>
