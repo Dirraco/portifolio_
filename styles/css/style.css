@@ -796,7 +796,8 @@ section#projects .container .cards-projects .box .description {
 #agenda-contaos,
 #validacao-exercicios,
 #onepiece,
-#podrao {
+#podrao,
+#meta {
     max-width: 600px;
     min-height: 350px;
 }
