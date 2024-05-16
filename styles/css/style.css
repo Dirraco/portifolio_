@@ -795,13 +795,7 @@ section#projects .container .cards-projects .box .description {
     cursor: pointer
 }
 
-/* projeto destaque */
-
-#harry {
-    min-width: 1240px;
-    max-height: 550px;
-}
-
+#harry,
 #gameshop,
 #agenda-contaos,
 #validacao-exercicios,
