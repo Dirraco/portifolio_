@@ -2,6 +2,16 @@
 
 const dataProjects = [
     {
+        title: 'HARRY POTTER',
+        date: '15 de maio de 2024',
+        description: `=============================================================. <br><br>
+        `, 
+        videoSrc: `./assets/projects/harry-potter.png`,
+        linkedin: '#',
+        repository: 'https://github.com/Dirraco/harry-potter',
+        site: 'https://harry-potter-sooty.vercel.app/'
+    },
+    {
         title: 'Empresa de Administração',
         date: '15 de janeiro de 2024',
         description: `A META é uma Organização sem fins lucrativos, formada por estudantes de Administração e de Recursos Humanos do UDF. Buscamos entender as dificuldades dos nossos clientes e desenvolver soluções personalizadas, com a finalidade de alavancar a sua competitividade no cenário empresarial. Nossa missão é gerar soluções personalizadas de qualidade para impulsionar nossos clientes na obtenção de melhores resultados, de forma ética e transparente, impactando de forma positiva o ecossistema empreendedor de Brasília. <br><br>

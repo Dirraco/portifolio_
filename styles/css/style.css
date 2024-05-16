@@ -746,6 +746,9 @@ section#projects .container .cards-projects .box .cover {
     border-radius: .5rem
 }
 
+.cards-projects {
+    margin-left: 10rem;
+}
 
 
 section#projects .container .cards-projects .box .cover::before {
@@ -790,6 +793,13 @@ section#projects .container .cards-projects .box .description {
     justify-content: space-between;
     border-radius: 0 0 2rem 2rem;
     cursor: pointer
+}
+
+/* projeto destaque */
+
+#harry {
+    min-width: 1240px;
+    max-height: 550px;
 }
 
 #gameshop,
