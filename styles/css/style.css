@@ -801,7 +801,8 @@ section#projects .container .cards-projects .box .description {
 #validacao-exercicios,
 #onepiece,
 #podrao,
-#meta {
+#meta,
+#login-php {
     max-width: 600px;
     min-height: 350px;
 }

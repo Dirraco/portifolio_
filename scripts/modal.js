@@ -2,6 +2,16 @@
 
 const dataProjects = [
     {
+        title: 'Tela de login',
+        date: '07 de julho de 2024',
+        description: `O projeto de desenvolvimento de uma tela de login com validação em PHP visa criar uma interface segura e eficiente para a autenticação de usuários. Este documento descreve a estrutura proposta, incluindo os componentes HTML, a lógica de validação em PHP e as melhores práticas de segurança.. <br><br>
+        `, 
+        videoSrc: `./assets/projects/tela-de-login-php.png`,
+        linkedin: '#',
+        repository: 'https://github.com/Dirraco/php-cadastro',
+        site: 'https://php-cadastro.vercel.app/'
+    },
+    {
         title: 'HARRY POTTER',
         date: '15 de maio de 2024',
         description: `=============================================================. <br><br>
